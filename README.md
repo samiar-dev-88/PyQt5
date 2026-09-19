@@ -1,2 +1,2 @@
 # PyQt5
-PyQt5 widgets (Python)
+Lots of widgets and options on Tkinter. (Python)
